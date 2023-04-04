@@ -27,8 +27,13 @@
    <img src="./icons/html@2x.png">&nbsp;&nbsp;
    <img src="./icons/css3@2x.png">&nbsp;&nbsp;
    <img src="./icons/sass@2x.png">&nbsp;&nbsp;
-   <img src="./icons/react@2x.png">&nbsp;&nbsp;<br> 
+   <img src="./icons/react@2x.png">&nbsp;&nbsp; <br> <br> 
    <img src="./icons/js@2x.png"> &nbsp;&nbsp;
+   <img src="./icons/visualstudio_code@2x.png"> &nbsp;&nbsp;
+   <img src="./icons/jetbrains_clion@2x.png"> &nbsp;&nbsp;
+   <img src="./icons/jetbrains_intellij@2x.png"> &nbsp;&nbsp;
+   <img src="./icons/jetbrains_phpstorm@2x.png"> &nbsp;&nbsp;
+
 
   
         
