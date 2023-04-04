@@ -10,6 +10,7 @@ My goal is to become a skilled full-stack developer. I am always looking for new
 
 
 <b><h2>My favorite tools and technologies:</h2></b><br>
+
    <img src="./icons/html@2x.png">&nbsp;&nbsp;
    <img src="./icons/css3@2x.png">&nbsp;&nbsp;
    <img src="./icons/sass@2x.png">&nbsp;&nbsp;
