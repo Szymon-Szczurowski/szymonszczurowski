@@ -18,7 +18,7 @@
   <link rel="stylesheet" href="./css/style.css">
 
 
-![Header](./profile_header.png)
+![Header](./icons/profile_header.png)
 
 <br>
 <b><h2>My favorite tools and technologies</h2></b>
@@ -27,7 +27,9 @@
    <img src="./icons/html@2x.png">&nbsp;&nbsp;
    <img src="./icons/css3@2x.png">&nbsp;&nbsp;
    <img src="./icons/sass@2x.png">&nbsp;&nbsp;
-   <img src="./icons/js@2x.png">
+   <img src="./icons/react@2x.png">&nbsp;&nbsp;
+   <br>
+   <img src="./icons/js@2x.png"> &nbsp;&nbsp;
 </div>
   
         
