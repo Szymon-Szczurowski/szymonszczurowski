@@ -22,10 +22,10 @@
 <b><h2>My favorite tools and technologies</h2></b> 
 
 <div  class="icons">
-   <img style="margin: 5px" src="./icons/html@2x.png">
-   <img style="margin: 5px" src="./icons/css3@2x.png">
-   <img style="margin: 5px" src="./icons/sass@2x.png">
-   <img style="margin: 5px" src="./icons/js@2x.png">
+   <img margin: 5px src="./icons/html@2x.png">
+   <img margin: 5px src="./icons/css3@2x.png">
+   <img margin: 5px src="./icons/sass@2x.png">
+   <img margin: 5px src="./icons/js@2x.png">
 </div>
   
         
