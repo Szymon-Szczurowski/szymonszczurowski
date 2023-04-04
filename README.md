@@ -1,5 +1,5 @@
 <!-- # Hi there, I'm [Szymon Szczurowski](https://github.com/szymonszczurowski) 👋 -->
-<style>
+<!-- <style>
     td{
         text-align: center;
         border: 1px solid white;
@@ -14,7 +14,7 @@
     .icons img{
         margin: 5px
     }
-</style>
+</style> -->
 
 ![Header](./profile_header.png)
 
@@ -23,12 +23,12 @@
 <hr>
 <br>
 
-<div class="icons">
-   <img src="./icons/html@2x.png">
-   <img src="./icons/css3@2x.png">
-   <img src="./icons/sass@2x.png">
-   <img src="./icons/js@2x.png">
+<div  class="icons">
+   <img style="margin: 5px" src="./icons/html@2x.png">
+   <img style="margin: 5px" src="./icons/css3@2x.png">
+   <img style="margin: 5px" src="./icons/sass@2x.png">
+   <img style="margin: 5px" src="./icons/js@2x.png">
 </div>
   
         
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg) -->
