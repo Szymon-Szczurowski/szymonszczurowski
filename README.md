@@ -15,6 +15,7 @@
         margin: 5px
     }
 </style> -->
+<link rel="stylesheet" href="style.css">
 
 ![Header](./profile_header.png)
 
