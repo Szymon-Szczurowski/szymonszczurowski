@@ -17,11 +17,6 @@
 </style> -->
   <link rel="stylesheet" href="./css/style.css">
 
-  <style>
-    img {
-        margin: 20px;
-    }
-</style>
 
 ![Header](./profile_header.png)
 
@@ -32,7 +27,6 @@
    <img src="./icons/html@2x.png">
    <img src="./icons/css3@2x.png">
    <img src="./icons/sass@2x.png">
-   <img src="./icons/js@2x.png">
 </div>
   
         
