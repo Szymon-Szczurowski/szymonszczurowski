@@ -20,8 +20,6 @@
 
 <br>
 <b><h2>My favorite tools and technologies</h2></b> 
-<hr>
-<br>
 
 <div  class="icons">
    <img style="margin: 5px" src="./icons/html@2x.png">
