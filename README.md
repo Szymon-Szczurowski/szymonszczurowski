@@ -17,6 +17,12 @@
 </style> -->
   <link rel="stylesheet" href="./css/style.css">
 
+  <style>
+    img {
+        margin: 20px;
+    }
+</style>
+
 ![Header](./profile_header.png)
 
 <br>
