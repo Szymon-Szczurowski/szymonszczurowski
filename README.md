@@ -27,8 +27,7 @@
    <img src="./icons/html@2x.png">&nbsp;&nbsp;
    <img src="./icons/css3@2x.png">&nbsp;&nbsp;
    <img src="./icons/sass@2x.png">&nbsp;&nbsp;
-   <img src="./icons/react@2x.png">&nbsp;&nbsp;
-   <br>
+   <img src="./icons/react@2x.png">&nbsp;&nbsp;<br> 
    <img src="./icons/js@2x.png"> &nbsp;&nbsp;
 </div>
   
