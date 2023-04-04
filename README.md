@@ -4,7 +4,7 @@
         text-align: center;
         border: 1px solid white;
         padding: 10px
-        
+
     }
 
     .icons{
@@ -15,18 +15,18 @@
         margin: 5px
     }
 </style> -->
-<link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="./css/style.css">
 
 ![Header](./profile_header.png)
 
 <br>
-<b><h2>My favorite tools and technologies</h2></b> 
+<b><h2>My favorite tools and technologies</h2></b>
 
-<div  class="icons">
-   <img margin: 5px src="./icons/html@2x.png">
-   <img margin: 5px src="./icons/css3@2x.png">
-   <img margin: 5px src="./icons/sass@2x.png">
-   <img margin: 5px src="./icons/js@2x.png">
+<div class="icons">
+   <img src="./icons/html@2x.png">
+   <img src="./icons/css3@2x.png">
+   <img src="./icons/sass@2x.png">
+   <img src="./icons/js@2x.png">
 </div>
   
         
