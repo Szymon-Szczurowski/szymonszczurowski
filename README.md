@@ -1,35 +1,22 @@
-<!-- # Hi there, I'm [Szymon Szczurowski](https://github.com/szymonszczurowski) 👋 -->
-<!-- <style>
-    td{
-        text-align: center;
-        border: 1px solid white;
-        padding: 10px
-
-    }
-
-    .icons{
-        display: flex;
-    }
-
-    .icons img{
-        margin: 5px
-    }
-</style> -->
-  <link rel="stylesheet" href="./css/style.css">
-
-
 ![Header](./icons/profile_header.png)
+
+Welcome to my GitHub. My name is Szymon Szczurowski and I am currently a second year computer science student at PJATK.
+
+I direct my development towards both front-end and back-end. I enjoy learning new technologies and discovering new things.
+I am currently focusing on front-end technologies and working on improving my skills in this area.
+
+My goal is to become a skilled full-stack developer. I am always looking for new challenges and opportunities to learn and grow as a developer.
 
 <br>
 <b><h2>My favorite tools and technologies</h2></b>
 
-
+ [top](#flags) | :poland: | `:poland:` | :st_pierre_miquelon: | `:st_pierre_miquelon:` | [top](#table-of-contents) |
    <img src="./icons/html@2x.png">&nbsp;&nbsp;
    <img src="./icons/css3@2x.png">&nbsp;&nbsp;
    <img src="./icons/sass@2x.png">&nbsp;&nbsp;
    <img src="./icons/react@2x.png">&nbsp;&nbsp; <br> <br> 
    <img src="./icons/js@2x.png"> &nbsp;&nbsp;
-   <img src="./icons/visualstudio_code@2x.png"> &nbsp;&nbsp;
+   <img src="./icons/visualstudio_code@2x.png"> &nbsp;&nbsp; <br> <br> 
    <img src="./icons/jetbrains_clion@2x.png"> &nbsp;&nbsp;
    <img src="./icons/jetbrains_intellij@2x.png"> &nbsp;&nbsp;
    <img src="./icons/jetbrains_phpstorm@2x.png"> &nbsp;&nbsp;
