@@ -23,13 +23,13 @@
 <br>
 <b><h2>My favorite tools and technologies</h2></b>
 
-<div class="icons">
+
    <img src="./icons/html@2x.png">&nbsp;&nbsp;
    <img src="./icons/css3@2x.png">&nbsp;&nbsp;
    <img src="./icons/sass@2x.png">&nbsp;&nbsp;
    <img src="./icons/react@2x.png">&nbsp;&nbsp;<br> 
    <img src="./icons/js@2x.png"> &nbsp;&nbsp;
-</div>
+
   
         
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg) -->
