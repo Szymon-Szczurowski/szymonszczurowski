@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;My+name+is+Szymon+Szczurowski)](https://git.io/typing-svg)
 
 I am currently a second year computer science student at PJATK, Poland.
-I direct my development towards both front-end and back-end. I enjoy learning new technologies and discovering new things.
+I direct my development towards both web development. I enjoy learning new technologies and discovering new things.
 I am currently focusing on front-end technologies and working on improving my skills in this area.
 
 My goal is to become a skilled full-stack developer. I am always looking for new challenges and opportunities to learn and grow as a developer.
