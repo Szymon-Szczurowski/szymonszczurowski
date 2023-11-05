@@ -1,4 +1,3 @@
-![image](https://github.com/szymonszczurowski/szymonszczurowski/assets/102825431/2f535459-a8ee-4ccc-82b9-f49a7fcd71e4)![Header](./icons/profile_header.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;My+name+is+Szymon+Szczurowski)](https://git.io/typing-svg)
 
