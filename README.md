@@ -24,7 +24,7 @@ While my primary focus is now on AI, ML, and Data Science, I continue to nurture
    <img src="./icons/jetbrains_clion@2x.png"> &nbsp;&nbsp;
    <img src="./icons/jetbrains_intellij@2x.png"> &nbsp;&nbsp;
    <img src="./icons/jetbrains_phpstorm@2x.png"> &nbsp;&nbsp;
-   <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
+   <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width='80'>
 
 
 
