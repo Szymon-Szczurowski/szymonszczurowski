@@ -15,17 +15,8 @@ While my primary focus is now on AI, ML, and Data Science, I continue to nurture
 
 <b><h2>My favorite tools and technologies:</h2></b>
 
-#   <img src="./icons/html@2x.png">&nbsp;&nbsp;
-#   <img src="./icons/css3@2x.png">&nbsp;&nbsp;
-#   <img src="./icons/sass@2x.png">&nbsp;&nbsp;
-#   <img src="./icons/react@2x.png">&nbsp;&nbsp; <br> <br> 
-#   <img src="./icons/js@2x.png"> &nbsp;&nbsp;
-#   <img src="./icons/visualstudio_code@2x.png"> &nbsp;&nbsp; <br> <br> 
-#   <img src="./icons/jetbrains_clion@2x.png"> &nbsp;&nbsp;
-#   <img src="./icons/jetbrains_intellij@2x.png"> &nbsp;&nbsp;
-#   <img src="./icons/jetbrains_phpstorm@2x.png"> &nbsp;&nbsp;
-   <img src="./icons/Python">
-   <img src="./icons/Python" width='70'>
+   <img src="./icons/Python.png">
+   <img src="./icons/Python.png" width='70'>
 
 
 
