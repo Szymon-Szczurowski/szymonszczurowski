@@ -15,6 +15,7 @@ While my primary focus is now on AI, ML, and Data Science, I continue to nurture
 
 <b><h2>My favorite tools and technologies:</h2></b>
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
    <img src="./icons/Python.png" width='80'>
    <img src="./icons/Pandas.png" width='80'>
    <img src="./icons/PyTorch.png" width='80'>
@@ -30,7 +31,7 @@ While my primary focus is now on AI, ML, and Data Science, I continue to nurture
    <img src="./icons/Visual Studio Code (VS Code).png" width='80'>
    <img src="./icons/IntelliJ IDEA.png" width='80'>
    <img src="./icons/Jupyter.png" width='80'>
-
+</div>
 
 
 
