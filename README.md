@@ -15,8 +15,22 @@ While my primary focus is now on AI, ML, and Data Science, I continue to nurture
 
 <b><h2>My favorite tools and technologies:</h2></b>
 
-   <img src="./icons/Python.png">
-   <img src="./icons/Python.png" width='70'>
+   <img src="./icons/Python.png" width='80'>
+   <img src="./icons/Pandas.png" width='80'>
+   <img src="./icons/PyTorch.png" width='80'>
+   <img src="./icons/TensorFlow.png" width='80'>
+   <img src="./icons/scikit-learn.png" width='80'>
+   <img src="./icons/HTML5.png" width='80'>
+   <img src="./icons/CSS3.png" width='80'>
+   <img src="./icons/Sass.png" width='80'>
+   <img src="./icons/JavaScript.png" width='80'>
+   <img src="./icons/PostgresSQL.png" width='80'>
+   <img src="./icons/Git.png" width='80'>
+   <img src="./icons/PyCharm.png" width='80'>
+   <img src="./icons/Visual Studio Code (VS Code).png" width='80'>
+   <img src="./icons/IntelliJ IDEA.png" width='80'>
+   <img src="./icons/Jupyter.png" width='80'>
+
 
 
 
