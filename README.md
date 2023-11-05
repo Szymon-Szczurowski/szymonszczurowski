@@ -1,4 +1,3 @@
-![image](https://github.com/szymonszczurowski/szymonszczurowski/assets/102825431/2f535459-a8ee-4ccc-82b9-f49a7fcd71e4)![Header](./icons/profile_header.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;My+name+is+Szymon+Szczurowski)](https://git.io/typing-svg)
 
@@ -15,24 +14,23 @@ While my primary focus is now on AI, ML, and Data Science, I continue to nurture
 
 <b><h2>My favorite tools and technologies:</h2></b>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-   <img src="./icons/Python.png" width='80' style="margin-right: 10px;">
-   <img src="./icons/Pandas.png" width='80' style="margin-right: 10px;">
-   <img src="./icons/PyTorch.png" width='80' style="margin-right: 10px;">
-   <img src="./icons/TensorFlow.png" width='80' style="margin-right: 10px;">
-   <img src="./icons/scikit-learn.png" width='80' style="margin-right: 10px;">
-   <img src="./icons/HTML5.png" width='80' style="margin-right: 10px;">
-   <img src"./icons/CSS3.png" width='80' style="margin-right: 10px;">
-   <img src="./icons/Sass.png" width='80' style="margin-right: 10px;">
-   <img src="./icons/JavaScript.png" width='80' style="margin-right: 10px;">
-   <img src="./icons/PostgresSQL.png" width='80' style="margin-right: 10px;">
-   <img src="./icons/Git.png" width='80' style="margin-right: 10px;">
-   <img src="./icons/PyCharm.png" width='80' style="margin-right: 10px;">
-   <img src="./icons/Visual Studio Code (VS Code).png" width='80' style="margin-right: 10px;">
-   <img src="./icons/IntelliJ IDEA.png" width='80' style="margin-right: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+   <img src="./icons/Python.png" width='80'>
+   <img src="./icons/Pandas.png" width='80'>
+   <img src="./icons/PyTorch.png" width='80'>
+   <img src="./icons/TensorFlow.png" width='80'>
+   <img src="./icons/scikit-learn.png" width='80'>
+   <img src="./icons/HTML5.png" width='80'>
+   <img src="./icons/CSS3.png" width='80'>
+   <img src="./icons/Sass.png" width='80'>
+   <img src="./icons/JavaScript.png" width='80'>
+   <img src="./icons/PostgresSQL.png" width='80'>
+   <img src="./icons/Git.png" width='80'>
+   <img src="./icons/PyCharm.png" width='80'>
+   <img src="./icons/Visual Studio Code (VS Code).png" width='80'>
+   <img src="./icons/IntelliJ IDEA.png" width='80'>
    <img src="./icons/Jupyter.png" width='80'>
 </div>
-
 
 
   
