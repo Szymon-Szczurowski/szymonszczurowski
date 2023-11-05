@@ -15,21 +15,31 @@ While my primary focus is now on AI, ML, and Data Science, I continue to nurture
 
 <b><h2>My favorite tools and technologies:</h2></b>
 
-   <img src="./icons/Python.png" width='80'>
-   <img src="./icons/Pandas.png" width='80'>
-   <img src="./icons/PyTorch.png" width='80'>
-   <img src="./icons/TensorFlow.png" width='80'>
-   <img src="./icons/scikit-learn.png" width='80'>
-   <img src="./icons/HTML5.png" width='80'>
-   <img src="./icons/CSS3.png" width='80'>
-   <img src="./icons/Sass.png" width='80'>
-   <img src="./icons/JavaScript.png" width='80'>
-   <img src="./icons/PostgresSQL.png" width='80'>
-   <img src="./icons/Git.png" width='80'>
-   <img src="./icons/PyCharm.png" width='80'>
-   <img src="./icons/Visual Studio Code (VS Code).png" width='80'>
-   <img src="./icons/IntelliJ IDEA.png" width='80'>
-   <img src="./icons/Jupyter.png" width='80'>
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .image-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(80px, 1fr)); /* Responsive grid columns */
+            gap: 10px; /* Adjust the spacing between images as needed */
+            justify-items: center; /* Center the images horizontally */
+        }
+
+        .image {
+            max-width: 100%; /* Make images responsive */
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <b><h2>My favorite tools and technologies:</h2></b>
+    <div class="image-grid">
+        <img src="./icons/Python.png" class="image" alt="Python">
+        <!-- Add more image tags here -->
+    </div>
+</body>
+</html>
 
 
 
