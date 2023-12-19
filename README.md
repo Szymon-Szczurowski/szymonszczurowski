@@ -1,4 +1,6 @@
-![Header](./icons/profile_header.png)
+<!-- ![Header](./icons/profile_header.png) -->
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;My+name+is+Szymon+Szczurowski)](https://git.io/typing-svg)
 
